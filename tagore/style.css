@@ -1,0 +1,14 @@
+body{
+ background-color:grey;
+}
+#nav{
+position:absolute;
+background-color:green;
+width:100%;
+padding:1%;
+margine:1%;
+}
+#nav li{
+list-style:none;
+}
+
